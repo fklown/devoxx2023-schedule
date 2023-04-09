@@ -32,7 +32,7 @@
 ### Jeudi
 
 #### 7:30 - 10:10
-- on verra -.-'
+- on verra vu l'horaire -.-' c'est surtout le 1er qui me chauffe à la base
 
 #### 10:45 - 11:30 (premiers hands-on)
 - Laissez-vous tenter par Scala 3, ou si j'en ai marre &darr;
@@ -88,3 +88,58 @@
 - The Future of Java is...Community
 - Retrospective Kubernetes Community Days France 2023, ou comment monter une conf tech de zéro
 - BOF Paris Software Crafters Community
+
+### Vendredi
+
+#### 8:00-10:10
+- pas trop intéressé a priori
+
+#### 10:15-10:45
+- Programmation Concurrente et Asynchrone : Loom en Java 20 et 21
+- Beyond cluster-admin: Getting Started with Kubernetes Users and Permissions
+- IPFS - The Practical Bits
+- Workshops
+  - Testing in an Hexagone: MOB + DDD + TDD = TDDD
+  - Quarkus, Micronaut et Spring Boot combattent dans le Cloud
+
+#### 11:45-12:30
+- Bootiful Spring Boot 3
+- FoundationDB : le secret le mieux gardé des nouvelles architectures distribuées !
+- Workshops
+  - Testing in an Hexagone: MOB + DDD + TDD = TDDD
+  - Quarkus, Micronaut et Spring Boot combattent dans le Cloud
+
+#### 13:00-13:15
+- Comment garder son job, quoi qu'il en coûte
+- Le Maître du Donjon: Maîtriser la cybersécurité en créant des challenges CTF
+- Workshops
+    - Testing in an Hexagone: MOB + DDD + TDD = TDDD
+    - Quarkus, Micronaut et Spring Boot combattent dans le Cloud
+
+#### 13:30-14:15
+- Le multi-tenancy chez Apache Kafka, navigation dans un sujet majeur
+- Docker au service du DevSecOps
+- Workshops
+    - Testing in an Hexagone: MOB + DDD + TDD = TDDD
+    - Quarkus, Micronaut et Spring Boot combattent dans le Cloud
+
+#### 13:30-14:15
+- Docker au service du DevSecOps
+- Le multi-tenancy chez Apache Kafka, navigation dans un sujet majeur
+- Workshops
+    - Testing in an Hexagone: MOB + DDD + TDD = TDDD
+    - Quarkus, Micronaut et Spring Boot combattent dans le Cloud
+
+#### 14:30-15:15
+- 1, 2, 3 Quarkus!
+- Profitez de PostgreSQL pour passer à la vitesse supérieure
+- Des millions d’évènements par minute pendant une Coupe du Monde, même pas peur !
+
+#### 15:30-16:15
+- Voyage au centre de la Veille : Apprendre en continu avec sa veille technologique
+- Ré-architecturer vos traitements batch avec Domain-Driven Design
+- D'un tri naïf au natural language processing, trois ans d'optimisations de notre moteur de recherche
+
+#### 16:45-17:30
+- Tour d’horizon de la gestion de la concurrence dans différents langages
+- Quoi de neuf dans CDI 4.0 ?
