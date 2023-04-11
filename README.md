@@ -1,33 +1,56 @@
 # Devoxx 2023
 
-## Karl
+### Liens officiels
+
+[Planning](ttps://cfp.devoxx.fr/2023/byday/wed)
+
+### Plans
+
+![Plan 3F](/assets/Palais-des-Congres-de-Paris-Plan-3F.jpg)
+
+![Plan Global](/assets/Palais-des-Congres-global-1-1536x865.png)
 
 ### Mercredi
 
-#### 8:00 - 12:30
+#### 9:30 - 12:30
 - Value types et Pattern matching : 1 partout, données au centre
+  - Maillot
 - Rendons le DDD aux devs
-- Une Architecture GitOps from scratch : Gitlab, Ansible, Terraform, Kubernetes et AWS
+  - Neuilly 252 AB
 
 #### 13:30 - 16:30
 - De Java à Scala 3, des lambdas à la programmation fonctionnelle: un code plus lisible, plus explicite, avec moins d'erreurs
+  - Paris 241
 - Kubernetes, dépassionné et pour les ultra débutants
+  - Amphi Bleu
 - Java™ 19 & 20. What's new and noteworthy?
+  - Neuilly 251
 - Jakarta en 2023, Quelle est la situation ?
-- (Slow (code) retreat)
+  - Paris 243
+- **_workshop_** Apprenez Rust pas à pas en construisant une application en ligne de commande
+  - Paris 202-203
+- **_workshop_** Hacker son application Java pour mieux la sécuriser ensuite
+  - Paris 221M-222M
 
 #### 17:00 - 17:30
 - SELECT "amazing_features" FROM "postgresql"
+  - Amphi Bleu
 - Détectez et corrigez automatiquement les problèmes les plus fréquents avec Apache Kafka
+  - Neuilly 252 AB
 - Des secrets dans les pixels ! À la découverte de la stéganographie
+  - Paris 242 AB
 
 #### 17:45 - 18:15
 - Les secrets internes de Spring
+  - Amphi Bleu
 - Playwright : l'outil qui va révolutionner les tests end-to-end
+  - Neuilly 252 AB
 
 #### 18:30 - 19:00
 - JKube remote-dev : coder avec tous vos micro-services du cloud ... en local !
+  - Neuilly 252 AB
 - Introduction à la « Computer Vision » avec OpenCV
+  - Paris 241
 
 ### Jeudi
 
