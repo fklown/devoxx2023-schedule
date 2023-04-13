@@ -34,7 +34,8 @@
   - Neuilly 252 AB
 </details>
 
-
+<details>
+<summary>Jeudi</summary>
 
 ### [Jeudi](https://cfp.devoxx.fr/2023/byday/thu)
 
@@ -96,49 +97,68 @@
 - Rust In Peace
   - Neuilly 252 AB
 
-<details>
-<summary>Vendredi</summary>
+</details>
 
 ### [Vendredi](https://cfp.devoxx.fr/2023/byday/fri)
 
 #### 10:15-10:45
 - Programmation Concurrente et Asynchrone : Loom en Java 20 et 21
+  - Maillot
 - Workshops
-  - Testing in an Hexagone: MOB + DDD + TDD = TDDD
+  - Testing in a Hexagone: MOB + DDD + TDD = TDDD
+    - Paris 202-203
   - Quarkus, Micronaut et Spring Boot combattent dans le Cloud
+    - Paris 221M-222M
 
 #### 11:45-12:30
 - Bootiful Spring Boot 3
+  - Amphi Bleu
 - FoundationDB : le secret le mieux gardé des nouvelles architectures distribuées !
+  - Paris 241
 - Workshops
-  - Testing in an Hexagone: MOB + DDD + TDD = TDDD
+  - Testing in a Hexagone: MOB + DDD + TDD = TDDD
+    - Paris 202-203
   - Quarkus, Micronaut et Spring Boot combattent dans le Cloud
+    - Paris 221M-222M
 
 #### 13:00-13:15
 - Comment garder son job, quoi qu'il en coûte
+  - Neuilly 252 AB
 - Le Maître du Donjon: Maîtriser la cybersécurité en créant des challenges CTF
+  - Neuilly 251
 - Workshops
-  - Testing in an Hexagone: MOB + DDD + TDD = TDDD
+  - Testing in a Hexagone: MOB + DDD + TDD = TDDD
+    - Paris 202-203
   - Quarkus, Micronaut et Spring Boot combattent dans le Cloud
+    - Paris 221M-222M
 
 #### 13:30-14:15
 - Docker au service du DevSecOps
+  - Paris 242 AB
 - Le multi-tenancy chez Apache Kafka, navigation dans un sujet majeur
+  - Neuilly 251
 - Workshops
-  - Testing in an Hexagone: MOB + DDD + TDD = TDDD
+  - Testing in a Hexagone: MOB + DDD + TDD = TDDD
+    - Paris 202-203
   - Quarkus, Micronaut et Spring Boot combattent dans le Cloud
+    - Paris 221M-222M
 
 #### 14:30-15:15
 - 1, 2, 3 Quarkus!
+  - Neuilly 252 AB
 - Profitez de PostgreSQL pour passer à la vitesse supérieure
+  - Amphi Bleu
 - Des millions d’évènements par minute pendant une Coupe du Monde, même pas peur !
+  - Paris 242 AB
 
 #### 15:30-16:15
 - Voyage au centre de la Veille : Apprendre en continu avec sa veille technologique
+  - Amphi Bleu
 - Ré-architecturer vos traitements batch avec Domain-Driven Design
-- D'un tri naïf au natural language processing, trois ans d'optimisations de notre moteur de recherche
+  - Neuilly 252 AB
 
 #### 16:45-17:30
 - Tour d’horizon de la gestion de la concurrence dans différents langages
+  - Neuilly 252 AB
 - Quoi de neuf dans CDI 4.0 ?
-</details>
+  - Paris 243
